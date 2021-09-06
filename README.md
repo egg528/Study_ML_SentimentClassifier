@@ -1,2 +1,6 @@
 # Study_ML_sentimentClassifier
 Naver Sentiment Movie Corpus를 활용하여 다양한 모델의 감성 분류기 만들기
+---
+
+Done
+- [LSTM](https://github.com/HyejinWon/pytorch-nsmc-classification/blob/main/NSMC_Classification.ipynb) 

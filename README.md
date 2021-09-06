@@ -6,4 +6,4 @@
 </br>
 
 Done
-- [LSTM]() 
+- [LSTM](https://github.com/egg528/Study_ML_sentimentClassifier/blob/main/LSTM_sentimentClassifier.ipynb) 
